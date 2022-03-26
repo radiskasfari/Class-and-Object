@@ -1,0 +1,6 @@
+D:\Matkul kuliah\Semester 2\pemrograman\Tugas\Class_dan_Object_Taxi\Class_dan_Object_Taxi\bin\Debug\Class_dan_Object_Taxi.exe.config
+D:\Matkul kuliah\Semester 2\pemrograman\Tugas\Class_dan_Object_Taxi\Class_dan_Object_Taxi\bin\Debug\Class_dan_Object_Taxi.exe
+D:\Matkul kuliah\Semester 2\pemrograman\Tugas\Class_dan_Object_Taxi\Class_dan_Object_Taxi\bin\Debug\Class_dan_Object_Taxi.pdb
+D:\Matkul kuliah\Semester 2\pemrograman\Tugas\Class_dan_Object_Taxi\Class_dan_Object_Taxi\obj\Debug\Class_dan_Object_Taxi.csprojResolveAssemblyReference.cache
+D:\Matkul kuliah\Semester 2\pemrograman\Tugas\Class_dan_Object_Taxi\Class_dan_Object_Taxi\obj\Debug\Class_dan_Object_Taxi.exe
+D:\Matkul kuliah\Semester 2\pemrograman\Tugas\Class_dan_Object_Taxi\Class_dan_Object_Taxi\obj\Debug\Class_dan_Object_Taxi.pdb
